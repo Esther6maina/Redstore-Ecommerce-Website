@@ -142,4 +142,17 @@ h4{
 .col-4:hover{
   transform: translateY(-5px);
 }
+.offer{
+  background: radial-gradient(#fff,#ffd6d6);
+  margin-top: 80px;
+  padding: 30px;
 
+}
+.col-2 .offer-image{
+  padding: 50px;
+}
+.col-2 h1{
+  font-size: 50%;
+  line-height: 60px;
+  margin: 25px 0;
+}
