@@ -148,7 +148,6 @@ h4{
   background: radial-gradient(#fff,#ffd6d6);
   margin-top: 80px;
   padding: 10px;
-  margin-bottom: 80px;
 }
 .col-2 .offer-image{
   padding: 50px;
@@ -156,10 +155,7 @@ h4{
 .col-2 h1{
   font-weight: 700;
   line-height: 60px;
-  
 }
-
-
 /*-------testimonial------*/
 .testimonial{
   padding-top: 100px;
@@ -167,9 +163,14 @@ h4{
 .testimonial .col-3{
   text-align: center;
   padding: 40px 20px;
+  
+  
 }
-.testimonial .col-3 img{
-  width: 50px;
+.testimonial .col-3 image{
   margin-top: 20px;
-  border-radius: 50%;
-}                                                                                                                                         
+  border-radius: 10%;
+  
+}
+
+
+                                                                                                                                        
